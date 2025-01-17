@@ -63,7 +63,7 @@
     {
         "id": 10,
         "img": "img/watches/2.jpg",
-        "name": "rolex",
+        "name": "Doxa",
         "category": "watches",
         "price": 1000
     },
@@ -77,7 +77,7 @@
     {
         "id": 12,
         "img": "img/watches/4.jpg",
-        "name": "R.M",
+        "name": "Tissot",
         "category": "watches",
         "price": 1000
     },
@@ -91,35 +91,35 @@
     {
         "id": 13,
         "img": "img/clothes/2.jpg",
-        "name": "ZARA",
+        "name": "H&M",
         "category": "clothes",
         "price": 300
     },
     {
         "id": 13,
         "img": "img/clothes/3.jpg",
-        "name": "ZARA",
+        "name": "UNIQLO",
         "category": "clothes",
         "price": 300
     },
     {
         "id": 13,
         "img": "img/clothes/4.jpg",
-        "name": "ZARA",
+        "name": "CROSS",
         "category": "clothes",
         "price": 300
     },
     {
         "id": 14,
         "img": "img/featured/1.jpg",
-        "name": "Shoes",
+        "name": "NIKE running",
         "category": "featured",
         "price": 300
     },
     {
         "id": 15,
         "img": "img/featured/2.jpg",
-        "name": "Shoes",
+        "name": "NIKE 6",
         "category": "featured",
         "price": 300
     },

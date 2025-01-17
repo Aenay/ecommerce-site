@@ -351,14 +351,14 @@ footer .copyright a:hover {
 
 .cart-quantity button {
     background: transparent;
-    width: 30px;
+    width: 20px;
     border: none;
     font-size: 20px;
     cursor: pointer;
 }
 
 .cart-quantity #decrement {
-    color: #999;
+    color: #000000;
 }
 
 .cart-quantity .number {
