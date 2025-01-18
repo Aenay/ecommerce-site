@@ -93,6 +93,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         localStorage.setItem("cartItems", JSON.stringify(cartItems));
         renderCart();
+
+        // Show success alert
+        Swal.fire({
+            title: `${productTitle} has been successfully added to your cart!`,
+            icon: "success",
+            draggable: true
+        });
+
     }
 
     // Render the cart from localStorage
