@@ -353,13 +353,16 @@ footer .copyright a:hover {
 .cart-quantity button {
     background: transparent;
     width: 20px;
+    outline: none;
     border: none;
     font-size: 20px;
     cursor: pointer;
+    color: #000;
 }
 
-.cart-quantity #decrement {
-    color: #000000;
+.cart-quantity button:hover {
+    color: #fb774b;
+    transition: 0.5s;
 }
 
 .cart-quantity .number {
@@ -375,6 +378,11 @@ footer .copyright a:hover {
 .cart-remove {
     font-size: 25px;
     cursor: pointer;
+}
+
+.cart-remove:hover {
+    color: #fb774b;
+    transition: 0.5s;
 }
 
 .total-cart {
@@ -408,6 +416,11 @@ footer .copyright a:hover {
     right: 15px;
     font-size: 35px;
     cursor: pointer;
+}
+
+#cart-close:hover {
+    color: #fb774b;
+    transition: 0.5s;
 }
 
 .shop-btn {
